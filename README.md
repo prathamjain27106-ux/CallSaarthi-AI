@@ -164,11 +164,9 @@ The planned architecture separates the user interface, backend processing, and A
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/CallSaarthi-AI.git
+git clone https://github.com/prathamjain27106-ux/CallSaarthi-AI.git
 cd CallSaarthi-AI
 ```
-
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ### 2. Install frontend dependencies
 
